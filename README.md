@@ -1,5 +1,6 @@
 ### Hi, human 👋
 
+[![](https://github-readme-stats.vercel.app/api?username=muammar&include_all_commits=true&show_icons=true&count_private=true&hide_title=true)](https://github.com/muammar)
 <!--
 **muammar/muammar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
